@@ -1,0 +1,107 @@
+.analytics-green, .analytics, .customers-green, .Search, .sprite, .up-arrow-blue, .dashboard, .dashboard-green, .messages, .messages-green, .promotions, .PromotionsGreen1, .diagonal{
+	background: url(sprites.png) no-repeat;
+}
+
+.analytics-green{
+	background-position: -124px -143px ;
+	width: 58px;
+	height: 66px;
+}
+
+.analytics{
+	background-position: -128px -49px ;
+	width: 58px;
+	height: 66px;
+}
+
+.customers-green{
+	background-position: -217px -142px ;
+	width: 62px;
+	height: 64px;
+}
+
+.Search{
+	background-position: -563px -142px ;
+	width: 23px;
+	height: 22px;
+}
+
+.sprite{
+	background-position: -407px -272px ;
+	width: 0px;
+	height: 0px;
+}
+
+.up-arrow-blue{
+	background-position: -566px -46px ;
+	width: 14px;
+	height: 9px;
+}
+
+.dashboard{
+	background-position: -43px -46px ;
+	width: 59px;
+	height: 73px;
+}
+
+.dashboard-green{
+	background-position: -45px -142px ;
+	width: 59px;
+	height: 73px;
+}
+
+.messages{
+	background-position: -301px -49px ;
+	width: 58px;
+	height: 65px;
+}
+
+.messages-green{
+	background-position: -302px -146px ;
+	width: 58px;
+	height: 65px;
+}
+
+.promotions{
+	background-position: -401px -46px ;
+	width: 58px;
+	height: 69px;
+}
+
+.promotions-green{
+	background-position: -405px -141px ;
+	width: 58px;
+	height: 69px;
+}
+
+.diagonal{
+	background-position: -45px -255px ;
+	width: 84px;
+	height: 77px;
+}
+
+
+.board{
+background-position: -37px -36px;
+width: 85px;
+height: 101px;
+}
+
+.icons{
+background-position: -498px -37px;
+width: 142px;
+height: 53px;
+}
+
+.menu{
+background-position: -18px -752.9791870117188px;
+width: 1200px;
+height: 111px;
+}
+
+.customers{
+background-position: -191.00003814697266px -33px;
+width: 94px;
+height: 83px;
+}
+
